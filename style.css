@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 52px;
+    color: #d7745c;
+    font-weight: 800;
+}
+h2{
+    font-size: 44px;
+}
+h2 span{
+    color: #ffa52f;
+}
+h3{
+    font-size: 25px;
+    color: #2cb1e9;
+}
+h4{
+    font-size: 22px;
+    color:#d7745c ;
+}
+.Profile_area{
+    display: flex;
+}
+.area-half{
+    width: 50%;
+    padding: 60px;
+}
+.area-half img{
+    width: 80%;
+    margin-top: 80px;
+}
+.btn{
+    background-image: linear-gradient(#ffa52f , #d7745c);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+    margin-top: 10px;
+    display: inline-block;
+}
